@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil Rout
 
-## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist
+## 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Automation Specialist
 
 ---
 
