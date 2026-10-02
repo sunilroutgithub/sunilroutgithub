@@ -21,7 +21,7 @@
     <tr>
       <td>
         <b>🎯 Role:</b> AI Engineer | LLM Applications | RAG Pipelines<br/>
-        <b>💼 Experience:</b> 1 years 11 month (Embedded Systems → AI)<br/>
+        <b>💼 Experience:</b> 2 years 2 month (Software Deceloper → AI)<br/>
         <b>🚀 Shipped:</b> 5 End-to-End GenAI Projects (All Live)<br/>
         <b>🌍 Work Preference:</b> <b>REMOTE</b> | Hybrid | Contract<br/>
         <b>⏰ Availability:</b> <b>Immediate Joiner</b><br/>
